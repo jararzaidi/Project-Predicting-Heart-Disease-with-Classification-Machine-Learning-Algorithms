@@ -3,7 +3,9 @@ Project: Predicting Heart Disease with Classification Machine Learning Algorithm
 
 Author: Jarar Zaidi
 
-Date: 6/8/2020
+Date: 6/11/2020
+
+Medium Link to project: https://medium.com/@jararzaidi/project-predicting-heart-disease-with-classification-machine-learning-algorithms-fd69e6fdc9d6
 
 This project is organized as follows:
 
