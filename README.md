@@ -15,7 +15,6 @@ Table of Contents
 4. Machine Learning + Predictive Analytics: Prepare Data for Modeling, Modeling/Training, Confusion Matrix, Feature Importance, Predictions
 5. Conclusions
 
-
 Scenario:
 You have just been hired as a Data Scientist at a Hospital with an alarming number of patients coming in reporting various cardiac symptoms.
 A cardiologist measures vitals & hands you this data to perform Data Analysis and predict whether certain patients have Heart Disease.
@@ -33,8 +32,9 @@ Determine which features are most important to Positive/Negative Heart Disease d
 
 Files: 
     Predicting Heart Disease with Classification Machine Learning Algorithms.ipynb - the Jupyter Notebook (.ipynb) version of project
-    
     Predicting Heart Disease with Classification Machine Learning Algorithms.py - the Python (.py) version project
-    
     heartDisease.csv - Original dataset used from Kaggle.com in CSV (.csv) format
+    
+    
+  
     
