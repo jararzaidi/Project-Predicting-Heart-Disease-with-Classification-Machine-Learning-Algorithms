@@ -32,4 +32,7 @@ Examine trends & correlations within our data
 Determine which features are most important to Positive/Negative Heart Disease diagnosis
 
 Files: 
+    Predicting Heart Disease with Classification Machine Learning Algorithms.ipynb - the Jupyter Notebook (.ipynb) version of project
+    Predicting Heart Disease with Classification Machine Learning Algorithms.py - the Python (.py) version project
+    heartDisease.csv - Original dataset used from Kaggle.com in CSV (.csv) format
     
